@@ -1,0 +1,16 @@
+﻿question_id,gold_page,page_in_top3,evidence_exact_hit3,diagnosis
+Q01,1,True,True,Exact evidence matched
+Q02,2,True,False,Correct page but exact evidence not contained in a single chunk
+Q03,2,True,False,Correct page but exact evidence not contained in a single chunk
+Q04,3,True,False,Correct page but exact evidence not contained in a single chunk
+Q05,4,True,False,Correct page but exact evidence not contained in a single chunk
+Q06,5,True,True,Exact evidence matched
+Q07,6,True,False,Correct page but exact evidence not contained in a single chunk
+Q08,7,True,True,Exact evidence matched
+Q09,8,True,True,Exact evidence matched
+Q10,9,True,True,Exact evidence matched
+Q11,10,True,False,Correct page but exact evidence not contained in a single chunk
+Q12,11,True,True,Exact evidence matched
+Q13,12,True,True,Exact evidence matched
+Q14,13,True,True,Exact evidence matched
+Q15,14,True,False,Correct page but exact evidence not contained in a single chunk
