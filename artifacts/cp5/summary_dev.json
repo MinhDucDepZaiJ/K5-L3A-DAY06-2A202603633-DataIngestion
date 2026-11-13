@@ -1,0 +1,65 @@
+[
+  {
+    "strategy": "A",
+    "split": "dev",
+    "n": 15,
+    "hit_at_1": {
+      "count": 6,
+      "rate": 0.4
+    },
+    "hit_at_3": {
+      "count": 8,
+      "rate": 0.5333
+    },
+    "page_hit_at_1": {
+      "count": 12,
+      "rate": 0.8
+    },
+    "page_hit_at_3": {
+      "count": 15,
+      "rate": 1.0
+    }
+  },
+  {
+    "strategy": "B",
+    "split": "dev",
+    "n": 15,
+    "hit_at_1": {
+      "count": 5,
+      "rate": 0.3333
+    },
+    "hit_at_3": {
+      "count": 7,
+      "rate": 0.4667
+    },
+    "page_hit_at_1": {
+      "count": 12,
+      "rate": 0.8
+    },
+    "page_hit_at_3": {
+      "count": 14,
+      "rate": 0.9333
+    }
+  },
+  {
+    "strategy": "C",
+    "split": "dev",
+    "n": 15,
+    "hit_at_1": {
+      "count": 5,
+      "rate": 0.3333
+    },
+    "hit_at_3": {
+      "count": 7,
+      "rate": 0.4667
+    },
+    "page_hit_at_1": {
+      "count": 12,
+      "rate": 0.8
+    },
+    "page_hit_at_3": {
+      "count": 14,
+      "rate": 0.9333
+    }
+  }
+]
