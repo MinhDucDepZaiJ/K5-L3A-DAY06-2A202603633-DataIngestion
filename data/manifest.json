@@ -1,0 +1,196 @@
+{
+  "counting_rule": "Candidate pages have >=150 extracted characters; manually exclude cover, TOC, references, blank and irrelevant pages.",
+  "sources": [
+    {
+      "source_id": "aimlBook_30_trang",
+      "title": "aimlBook_30_trang",
+      "source_path_or_url": "starter/data/aimlBook_30_trang.pdf",
+      "license_or_permission": "TODO: verify source license before submission",
+      "accessed_at": "2026-11-13",
+      "physical_page_count": 30,
+      "candidate_content_page_count": 30,
+      "pages": [
+        {
+          "page_id": "aimlBook_30_trang:p1",
+          "physical_page": 1,
+          "characters": 1956,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p2",
+          "physical_page": 2,
+          "characters": 2223,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p3",
+          "physical_page": 3,
+          "characters": 1877,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p4",
+          "physical_page": 4,
+          "characters": 2513,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p5",
+          "physical_page": 5,
+          "characters": 1205,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p6",
+          "physical_page": 6,
+          "characters": 2040,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p7",
+          "physical_page": 7,
+          "characters": 2043,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p8",
+          "physical_page": 8,
+          "characters": 1050,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p9",
+          "physical_page": 9,
+          "characters": 1988,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p10",
+          "physical_page": 10,
+          "characters": 1737,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p11",
+          "physical_page": 11,
+          "characters": 2713,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p12",
+          "physical_page": 12,
+          "characters": 1344,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p13",
+          "physical_page": 13,
+          "characters": 1317,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p14",
+          "physical_page": 14,
+          "characters": 1545,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p15",
+          "physical_page": 15,
+          "characters": 2036,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p16",
+          "physical_page": 16,
+          "characters": 638,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p17",
+          "physical_page": 17,
+          "characters": 1649,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p18",
+          "physical_page": 18,
+          "characters": 1389,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p19",
+          "physical_page": 19,
+          "characters": 1522,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p20",
+          "physical_page": 20,
+          "characters": 1311,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p21",
+          "physical_page": 21,
+          "characters": 2136,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p22",
+          "physical_page": 22,
+          "characters": 1614,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p23",
+          "physical_page": 23,
+          "characters": 782,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p24",
+          "physical_page": 24,
+          "characters": 1598,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p25",
+          "physical_page": 25,
+          "characters": 1712,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p26",
+          "physical_page": 26,
+          "characters": 2280,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p27",
+          "physical_page": 27,
+          "characters": 1722,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p28",
+          "physical_page": 28,
+          "characters": 1907,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p29",
+          "physical_page": 29,
+          "characters": 2021,
+          "candidate_content_page": true
+        },
+        {
+          "page_id": "aimlBook_30_trang:p30",
+          "physical_page": 30,
+          "characters": 1650,
+          "candidate_content_page": true
+        }
+      ]
+    }
+  ]
+}
