@@ -1,0 +1,65 @@
+[
+  {
+    "strategy": "A",
+    "split": "test",
+    "n": 5,
+    "hit_at_1": {
+      "count": 2,
+      "rate": 0.4
+    },
+    "hit_at_3": {
+      "count": 3,
+      "rate": 0.6
+    },
+    "page_hit_at_1": {
+      "count": 4,
+      "rate": 0.8
+    },
+    "page_hit_at_3": {
+      "count": 4,
+      "rate": 0.8
+    }
+  },
+  {
+    "strategy": "B",
+    "split": "test",
+    "n": 5,
+    "hit_at_1": {
+      "count": 2,
+      "rate": 0.4
+    },
+    "hit_at_3": {
+      "count": 2,
+      "rate": 0.4
+    },
+    "page_hit_at_1": {
+      "count": 4,
+      "rate": 0.8
+    },
+    "page_hit_at_3": {
+      "count": 5,
+      "rate": 1.0
+    }
+  },
+  {
+    "strategy": "C",
+    "split": "test",
+    "n": 5,
+    "hit_at_1": {
+      "count": 2,
+      "rate": 0.4
+    },
+    "hit_at_3": {
+      "count": 2,
+      "rate": 0.4
+    },
+    "page_hit_at_1": {
+      "count": 4,
+      "rate": 0.8
+    },
+    "page_hit_at_3": {
+      "count": 5,
+      "rate": 1.0
+    }
+  }
+]

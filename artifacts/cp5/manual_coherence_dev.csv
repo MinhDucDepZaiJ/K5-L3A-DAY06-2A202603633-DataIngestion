@@ -1,0 +1,191 @@
+﻿strategy,page,chunk_id,text_excerpt,coherence_0_1_2,reason
+A,1,aimlBook_30_trang:p1:fixed:0,"Chapter-1
+Introduction to Artificial Intelligence
+
+1.1. Introduction
+Artificial Intelligence (AI), the power of an intelligent beings- related work by a
+computer or computer-controlled robot. The phrase is generally used to construct
+systems with human intellectual processes, such as the capability to reason, seek
+meaning, generalize, or learn from",,
+A,2,aimlBook_30_trang:p2:fixed:1,"
+Recognition Pattern
+When software makes some form of observation, it's commonly coded to match
+what it sees with a pattern. For example, a vision software may try to reach an eye
+and nose pattern to look for a face during a scene. More complicated patterns are
+also analyzed, e.g., during a language text, chess situation, or event history.
+Represen",,
+A,3,aimlBook_30_trang:p3:fixed:1,"It is a study of the kinds of knowledge needed to resolve worldwide challenges.
+Ontologies
+Ontology is to examine the kinds of objects that exist. The programs and phrases in
+AI influence different types of things and explore what they are and their
+fundamental characteristics. Ontology starts in the 1990s.
+Heuristic
+A heuristic technique of attemp",,
+A,4,aimlBook_30_trang:p4:fixed:3,"ses
+to the treatment provided by these organizations.
+AI is likely to be essential in identifying the environmental issues we tend to
+experience due to warming and our tending systems. The AI will increase our
+human efforts to address our global difficulties ranging from promoting sensible
+infrastructure to the economical use of our natural resourc",,
+A,5,aimlBook_30_trang:p5:fixed:1,"technology in our everyday lives,
+jobs, and society even intertwined.
+1.4. The applications areas of AI
+Artificial intelligence frequently helps uncover complicated challenges of the
+cosmos. The AI technology may enable the universe to comprehend how it
+operates, comes from, etc.
+Finance AI
+For each other, AI and banking industries are superficial ",,
+A,6,aimlBook_30_trang:p6:fixed:0,"Basics of Artificial Intelligence and Machine Learning
+
+For any firm, knowledge security is critical, and cyber threats proliferate in the digital
+world. AI typically makes data safer and safer. Some instances, such as the AEG
+bot, AI2 Platform, are better used to identify software defects and cyber assaults
+Social Media AI
+Social media networks li",,
+A,7,aimlBook_30_trang:p7:fixed:0,"Chapter-1: Introduction to Artificial Intelligence
+
+and agriculture surveillance, and predictive analysis. AI is frequently
+advantageous to farmers in agriculture.
+E-commerce AI
+AI offers the e-commerce sector a competitive advantage and is growing
+increasingly demanding in the e-commerce company. AI allows shopkeepers to
+acquire items with appropr",,
+A,8,aimlBook_30_trang:p8:fixed:0,"Basics of Artificial Intelligence and Machine Learning
+
+High-level computer languages such as FORTRAN, LISP, or COBOL were
+created during that period. In addition, at that period, the excitement for AI was quite
+remarkable.
+The Golden Ages
+Early excitement (1956-1974)
+1966: Researchers stressed the development of mathematical problem-solving
+techni",,
+A,9,aimlBook_30_trang:p9:fixed:1,"learning, extensive data, and broad artificial Intelligence
+(2011-present)
+2011, IBM's Watson won jeopardy 2011, a quiz show where complicated issues
+had to be unraveled like riddles. Watson has shown that he can comprehend the
+language and rapidly resolve complex issues.
+2012: Google has created the 'Google now' Android app function, ready to
+pres",,
+A,10,aimlBook_30_trang:p10:fixed:1,"mputer resources,
+most of them experience a ""combinatory explosion"": the quantity of problems or
+machine time required to deal with issues of a specific size is astronomical. The
+search for more efficient algorithms for problem-solving is a significant priority.
+
+Figure 1.3. Goals of AI
+Representation of knowledge: Representation of expertise and k",,
+B,1,aimlBook_30_trang:p1:paragraph:0,"Chapter-1
+Introduction to Artificial Intelligence
+
+1.1. Introduction
+
+Artificial Intelligence (AI), the power of an intelligent beings- related work by a
+
+computer or computer-controlled robot. The phrase is generally used to construct
+
+systems with human intellectual processes, such as the capability to reason, seek
+
+meaning, generalize, or learn ",,
+B,2,aimlBook_30_trang:p2:paragraph:0,"Basics of Artificial Intelligence and Machine Learning
+
+AI research mainly concentrated on intelligence elements: learning, reasoning,
+
+troubleshooting, perception, and language usage.
+
+A program understands the facts of the particular circumstance in which it has to
+
+behave, and all its objectives are phrases of some mathematical, logical language",,
+B,3,aimlBook_30_trang:p3:paragraph:1,"Ontology is to examine the kinds of objects that exist. The programs and phrases in
+
+AI influence different types of things and explore what they are and their
+
+fundamental characteristics. Ontology starts in the 1990s.
+
+Heuristic
+
+A heuristic technique of attempting to get anything or a notion incorporated in a
+
+program is possible. The phrase is ",,
+B,4,aimlBook_30_trang:p4:paragraph:2,"globe management offer chains to optimization of delivery routes. It allows
+
+companies to create, develop and deliver goods and services more than ever
+
+before.
+
+Saving Life AI
+
+Artificial intelligence is not only life-giving; it will save lives in certain
+
+circumstances—various companies and technical school companies fund and study
+
+how AI will u",,
+B,5,aimlBook_30_trang:p5:paragraph:1,"Artificial intelligence frequently helps uncover complicated challenges of the
+
+cosmos. The AI technology may enable the universe to comprehend how it
+
+operates, comes from, etc.
+
+Finance AI
+
+For each other, AI and banking industries are superficial matches. Automation,
+
+chatbot, adaptive intelligence, algorithm trading, and machine learning are
+
+i",,
+B,6,aimlBook_30_trang:p6:paragraph:2,"robot Erica and Sophia have lately been created to converse and act like human
+
+beings.
+
+Entertainment AI
+
+We presently use certain AI-based apps with certain entertainment providers such as
+
+Netflix and Amazon in our lifestyles. These services present the program or provide
+
+suggestions with the assistance of ML/AI algorithms.
+
+Agriculture AI
+
+Agr",,
+B,7,aimlBook_30_trang:p7:paragraph:0,"Chapter-1: Introduction to Artificial Intelligence
+
+and agriculture surveillance, and predictive analysis. AI is frequently
+
+advantageous to farmers in agriculture.
+
+E-commerce AI
+
+AI offers the e-commerce sector a competitive advantage and is growing
+
+increasingly demanding in the e-commerce company. AI allows shopkeepers to
+
+acquire items with ap",,
+B,8,aimlBook_30_trang:p8:paragraph:1,"Figure 1.2. History of AI (1980-1987)
+The 1980 Year: After the winter period of AI, AI returned with an ""Expert
+System."" Expert systems were built to replicate a person's skill in decision-
+making. In 1980, the American Association of AI's primary national conference
+was held at Stanford University.
+The second winter of AI (1987-1993)
+
+8",,
+B,9,aimlBook_30_trang:p9:paragraph:1,"2011, IBM's Watson won jeopardy 2011, a quiz show where complicated issues
+
+had to be unraveled like riddles. Watson has shown that he can comprehend the
+
+language and rapidly resolve complex issues.
+
+2012: Google has created the 'Google now' Android app function, ready to
+
+present the user with information forecast.
+
+2014: Chatbot ""Eugene Goostman",,
+B,10,aimlBook_30_trang:p10:paragraph:0,"Basics of Artificial Intelligence and Machine Learning
+
+These are unique features or functionalities that researchers anticipate the clever
+
+gadget to demonstrate. The following features have the most coverage. Erik Sand
+
+well emphasizes the preparation and learning that are necessary and relevant for the
+
+situation.
+
+Reasoning, problem-solving: ea",,
