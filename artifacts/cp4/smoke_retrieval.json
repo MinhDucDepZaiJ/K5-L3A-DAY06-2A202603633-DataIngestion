@@ -1,0 +1,193 @@
+{
+  "question": "What is narrow artificial intelligence?",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "dimensions": 384,
+  "results": {
+    "A": [
+      {
+        "chunk_id": "aimlBook_30_trang:p12:fixed:0",
+        "document_id": "aimlBook_30_trang",
+        "source": "data\\aimlBook_30_trang.pdf",
+        "page": 12,
+        "section": "Chapter 1",
+        "text": "Basics of Artificial Intelligence and Machine Learning\n\nintelligent task. In the realm of artificial intelligence, the most popular and\npresently accessible AI is narrow AI.\nSince it is explicitly equipped for a single task, narrow AI cannot operate\nbeyond its field or limits. As a result, it is sometimes called \"weak AI.\" When the\nconstraints of narrow AI are exceeded, it might fail unintentionally. Apple Siri is\na beautiful example of Narrow AI, but just a small set of features.\n\nFigure 1.4.Types of artificial intelligence\nAI type-1: Based on Capabilities\nUsing an expert system combined with machine education and natural language\nprocessing, O IBM's Watson supercomputer falls within Narrow AI. The narrow\nAI examples include playing chess, purchasing suggestions on an e-commerce\nplatform,",
+        "metadata": {
+          "empty": false,
+          "method": "fixed",
+          "page_id": "aimlBook_30_trang:p12",
+          "section": "Chapter 1",
+          "end_char": 800,
+          "char_count": 1347,
+          "start_char": 0,
+          "chunk_index": 0,
+          "extraction_error": null
+        },
+        "score": 0.7131163052847216
+      },
+      {
+        "chunk_id": "aimlBook_30_trang:p12:fixed:1",
+        "document_id": "aimlBook_30_trang",
+        "source": "data\\aimlBook_30_trang.pdf",
+        "page": 12,
+        "section": "Chapter 1",
+        "text": " falls within Narrow AI. The narrow\nAI examples include playing chess, purchasing suggestions on an e-commerce\nplatform, self-driving cars, language recognition, and picture recognition.\nAI General:\n General AI is an intelligence type that can carry out any intellectual work\nand a person.\n General AI is about building a machine that can learn and reason like a\nperson alone.\n No machine is now under general AI and can perform any work and\nperson.\n Researchers throughout the world are presently focusing on general AI\ndesign machines.\n Since general AI systems are still being investigated, creating such systems\nwould take much time and effort.\nSuper AI:\n\n12",
+        "metadata": {
+          "empty": false,
+          "method": "fixed",
+          "page_id": "aimlBook_30_trang:p12",
+          "section": "Chapter 1",
+          "end_char": 1347,
+          "char_count": 1347,
+          "start_char": 680,
+          "chunk_index": 1,
+          "extraction_error": null
+        },
+        "score": 0.6657092969764117
+      },
+      {
+        "chunk_id": "aimlBook_30_trang:p11:fixed:3",
+        "document_id": "aimlBook_30_trang",
+        "source": "data\\aimlBook_30_trang.pdf",
+        "page": 11,
+        "section": "Chapter 1",
+        "text": "ncorporates all of the skills above and may perhaps\nsurpass human ability in one or all of these areas. Some argue that anthropomorphic\nfeatures like artificial awareness or an artificial brain may be necessary for such a\nproject.\nThe AI system comprises a creature and its environment. Agents in their world\nare acting. Other police in the climate might be present.\n1.7. Types of Artificia l Intelligence\nIn several ways, artificial intelligence may be classed. The most general\nclassifications are based on the capabilities and functionality of AI. The flow diagram\nbelow shows the many kinds of AI.\nWeak AI or Narrow AI: o Narrow AI is a kind o f AI that can perform an\n\n11",
+        "metadata": {
+          "empty": false,
+          "method": "fixed",
+          "page_id": "aimlBook_30_trang:p11",
+          "section": "Chapter 1",
+          "end_char": 2716,
+          "char_count": 2716,
+          "start_char": 2040,
+          "chunk_index": 3,
+          "extraction_error": null
+        },
+        "score": 0.6480356068589933
+      }
+    ],
+    "B": [
+      {
+        "chunk_id": "aimlBook_30_trang:p12:paragraph:0",
+        "document_id": "aimlBook_30_trang",
+        "source": "data\\aimlBook_30_trang.pdf",
+        "page": 12,
+        "section": "Chapter 1",
+        "text": "Basics of Artificial Intelligence and Machine Learning\n\nintelligent task. In the realm of artificial intelligence, the most popular and\npresently accessible AI is narrow AI.\nSince it is explicitly equipped for a single task, narrow AI cannot operate\nbeyond its field or limits. As a result, it is sometimes called \"weak AI.\" When the\nconstraints of narrow AI are exceeded, it might fail unintentionally. Apple Siri is\na beautiful example of Narrow AI, but just a small set of features.\n\nFigure 1.4.Types of artificial intelligence\n\nAI type-1: Based on Capabilities\n\nUsing an expert system combined with machine education and natural language\n\nprocessing, O IBM's Watson supercomputer falls within Narrow AI. The narrow\n\nAI examples include playing chess, purchasing suggestions on an e-commerce",
+        "metadata": {
+          "empty": false,
+          "method": "paragraph",
+          "page_id": "aimlBook_30_trang:p12",
+          "section": "Chapter 1",
+          "end_char": null,
+          "char_count": 1347,
+          "start_char": null,
+          "chunk_index": 0,
+          "extraction_error": null
+        },
+        "score": 0.7166499877974424
+      },
+      {
+        "chunk_id": "aimlBook_30_trang:p1:paragraph:0",
+        "document_id": "aimlBook_30_trang",
+        "source": "data\\aimlBook_30_trang.pdf",
+        "page": 1,
+        "section": "Chapter 1",
+        "text": "Chapter-1\nIntroduction to Artificial Intelligence\n\n1.1. Introduction\n\nArtificial Intelligence (AI), the power of an intelligent beings- related work by a\n\ncomputer or computer-controlled robot. The phrase is generally used to construct\n\nsystems with human intellectual processes, such as the capability to reason, seek\n\nmeaning, generalize, or learn from experience. Since the computer revolution of the\n\n1940s, computers have frequently been programmed for highly complicated jobs –\n\nlike, for example, finding proof of mathematical theorems or playing chess – with\n\noutstanding skill. However, despite progress in computer processing speeds and\n\nmemory capacity, no programs match human flexibility over larger areas or",
+        "metadata": {
+          "empty": false,
+          "method": "paragraph",
+          "page_id": "aimlBook_30_trang:p1",
+          "section": "Chapter 1",
+          "end_char": null,
+          "char_count": 1959,
+          "start_char": null,
+          "chunk_index": 0,
+          "extraction_error": null
+        },
+        "score": 0.652484258861289
+      },
+      {
+        "chunk_id": "aimlBook_30_trang:p11:paragraph:3",
+        "document_id": "aimlBook_30_trang",
+        "source": "data\\aimlBook_30_trang.pdf",
+        "page": 11,
+        "section": "Chapter 1",
+        "text": "features like artificial awareness or an artificial brain may be necessary for such a\n\nproject.\n\nThe AI system comprises a creature and its environment. Agents in their world\n\nare acting. Other police in the climate might be present.\n\n1.7. Types of Artificia l Intelligence\n\nIn several ways, artificial intelligence may be classed. The most general\n\nclassifications are based on the capabilities and functionality of AI. The flow diagram\n\nbelow shows the many kinds of AI.\n\nWeak AI or Narrow AI: o Narrow AI is a kind o f AI that can perform an\n\n11",
+        "metadata": {
+          "empty": false,
+          "method": "paragraph",
+          "page_id": "aimlBook_30_trang:p11",
+          "section": "Chapter 1",
+          "end_char": null,
+          "char_count": 2716,
+          "start_char": null,
+          "chunk_index": 3,
+          "extraction_error": null
+        },
+        "score": 0.6162130694135345
+      }
+    ],
+    "C": [
+      {
+        "chunk_id": "aimlBook_30_trang:p12:paragraph:0",
+        "document_id": "aimlBook_30_trang",
+        "source": "data\\aimlBook_30_trang.pdf",
+        "page": 12,
+        "section": "Chapter 1",
+        "text": "Basics of Artificial Intelligence and Machine Learning\n\nintelligent task. In the realm of artificial intelligence, the most popular and\npresently accessible AI is narrow AI.\nSince it is explicitly equipped for a single task, narrow AI cannot operate\nbeyond its field or limits. As a result, it is sometimes called \"weak AI.\" When the\nconstraints of narrow AI are exceeded, it might fail unintentionally. Apple Siri is\na beautiful example of Narrow AI, but just a small set of features.\n\nFigure 1.4.Types of artificial intelligence\n\nAI type-1: Based on Capabilities\n\nUsing an expert system combined with machine education and natural language\n\nprocessing, O IBM's Watson supercomputer falls within Narrow AI. The narrow\n\nAI examples include playing chess, purchasing suggestions on an e-commerce",
+        "metadata": {
+          "empty": false,
+          "method": "paragraph",
+          "page_id": "aimlBook_30_trang:p12",
+          "section": "Chapter 1",
+          "end_char": null,
+          "char_count": 1347,
+          "start_char": null,
+          "chunk_index": 0,
+          "extraction_error": null
+        },
+        "score": 0.7166499877974424
+      },
+      {
+        "chunk_id": "aimlBook_30_trang:p1:paragraph:0",
+        "document_id": "aimlBook_30_trang",
+        "source": "data\\aimlBook_30_trang.pdf",
+        "page": 1,
+        "section": "Chapter 1",
+        "text": "Chapter-1\nIntroduction to Artificial Intelligence\n\n1.1. Introduction\n\nArtificial Intelligence (AI), the power of an intelligent beings- related work by a\n\ncomputer or computer-controlled robot. The phrase is generally used to construct\n\nsystems with human intellectual processes, such as the capability to reason, seek\n\nmeaning, generalize, or learn from experience. Since the computer revolution of the\n\n1940s, computers have frequently been programmed for highly complicated jobs –\n\nlike, for example, finding proof of mathematical theorems or playing chess – with\n\noutstanding skill. However, despite progress in computer processing speeds and\n\nmemory capacity, no programs match human flexibility over larger areas or",
+        "metadata": {
+          "empty": false,
+          "method": "paragraph",
+          "page_id": "aimlBook_30_trang:p1",
+          "section": "Chapter 1",
+          "end_char": null,
+          "char_count": 1959,
+          "start_char": null,
+          "chunk_index": 0,
+          "extraction_error": null
+        },
+        "score": 0.652484258861289
+      },
+      {
+        "chunk_id": "aimlBook_30_trang:p11:paragraph:3",
+        "document_id": "aimlBook_30_trang",
+        "source": "data\\aimlBook_30_trang.pdf",
+        "page": 11,
+        "section": "Chapter 1",
+        "text": "features like artificial awareness or an artificial brain may be necessary for such a\n\nproject.\n\nThe AI system comprises a creature and its environment. Agents in their world\n\nare acting. Other police in the climate might be present.\n\n1.7. Types of Artificia l Intelligence\n\nIn several ways, artificial intelligence may be classed. The most general\n\nclassifications are based on the capabilities and functionality of AI. The flow diagram\n\nbelow shows the many kinds of AI.\n\nWeak AI or Narrow AI: o Narrow AI is a kind o f AI that can perform an\n\n11",
+        "metadata": {
+          "empty": false,
+          "method": "paragraph",
+          "page_id": "aimlBook_30_trang:p11",
+          "section": "Chapter 1",
+          "end_char": null,
+          "char_count": 2716,
+          "start_char": null,
+          "chunk_index": 3,
+          "extraction_error": null
+        },
+        "score": 0.6162130694135345
+      }
+    ]
+  }
+}
